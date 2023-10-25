@@ -1,11 +1,28 @@
-- 👋 Hi, I’m @YungBLK
-  Javascript and Nodejs developer currently attending to Information Systems in UNA-AIMORES, Brasil.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+100 Projects challenger
 
-<!---
-YungBLK/YungBLK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ ## Web Projects
+ - RecipeHub - LUA 
+ - HTTPal CLI
+ - Linkbud
+ - Vinyl Download Code Redeemer  
+ - URL Shortener
+ - Read-Only API
+ - Uptime Checker
+ - Wishlist
+ - Blogging Platform
+ - Web Comic Platform
+ - Content Management System (CMS)
+ - Story Publishing Platform
+ - Help Site Manager
+ - Game Tracker
+ - Forum
+ - Social Network
+ - Event Platform
+ - Restaurant Ordering Platform
+ - VideoTube
+ - Invoice App
+ - Simple Commerce
+ - Website Builder
+## Command Line Interfaces (CLIs)
+
+todo...
