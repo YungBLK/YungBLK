@@ -1,8 +1,10 @@
 https://codepen.io/Igor-Lucio/
 -----
 
- ## Web Projects
+ ## Web Projects - DOING
  - RecipeHub - LUA 
+
+## TODO
  - HTTPal CLI
  - Linkbud
  - Vinyl Download Code Redeemer  
